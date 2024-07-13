@@ -6,7 +6,7 @@ Selamat datang di proyek aplikasi web server! 🎉 Aplikasi ini menyediakan laya
 
 - **Antarmuka Grafis**: Menyediakan antarmuka untuk konfigurasi port, direktori web, dan direktori log serta tampilan log akses.
 - **Konfigurasi**: 
-  - **Port**: Mengatur port untuk akses (idealnya port 80 dan 443, tetapi port lain juga diperbolehkan).
+  - **Port**: Mengatur port untuk akses.
   - **Direktori Web**: Menentukan lokasi penyimpanan file yang dapat diakses.
   - **Direktori Log**: Menentukan lokasi penyimpanan log akses.
 - **Kontrol Server**:
