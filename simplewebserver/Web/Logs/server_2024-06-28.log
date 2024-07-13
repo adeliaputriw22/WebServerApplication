@@ -1,0 +1,211 @@
+[Fri Jun 28 06:24:55 WIB 2024] Server started on port 2024
+[Fri Jun 28 06:25:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 06:25:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 06:25:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 06:25:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 06:25:10 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:25:10 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:25:12 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:25:12 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:25:14 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:25:14 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:25:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:25:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:25:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 06:25:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 06:25:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 06:25:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 06:25:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:25:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:25:25 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-15.jpg HTTP/1.1
+[Fri Jun 28 06:25:25 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-15.jpg HTTP/1.1
+[Fri Jun 28 06:25:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 06:25:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 06:25:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:25:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:25:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:25:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:25:34 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Konsep Akses SQLite DB Berbasis DAO.pdf HTTP/1.1
+[Fri Jun 28 06:25:34 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Konsep Akses SQLite DB Berbasis DAO.pdf HTTP/1.1
+[Fri Jun 28 06:25:37 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:25:37 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:25:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 06:25:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 06:25:43 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 5.pdf HTTP/1.1
+[Fri Jun 28 06:25:43 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 5.pdf HTTP/1.1
+[Fri Jun 28 06:25:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 06:25:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 06:25:50 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 8.pdf HTTP/1.1
+[Fri Jun 28 06:25:50 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 8.pdf HTTP/1.1
+[Fri Jun 28 06:25:52 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 06:25:52 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 06:26:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:26:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:26:08 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:26:08 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:26:09 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:26:09 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:26:11 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 06:26:11 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 06:26:14 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:26:14 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:26:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:26:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:26:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:26:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:26:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:26:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:26:25 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:26:25 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:26:28 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:26:28 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:26:30 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:26:30 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:26:38 WIB 2024] Server stopped
+[Fri Jun 28 06:34:59 WIB 2024] Server started on port 2024
+[Fri Jun 28 06:35:01 WIB 2024] Server stopped
+[Fri Jun 28 06:54:15 WIB 2024] Server started on port 1002
+[Fri Jun 28 06:54:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 06:54:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 06:54:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 06:54:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 06:54:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:54:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 06:54:44 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:44 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:49 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:49 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:54:53 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:54:53 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:54:55 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:54:55 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 06:54:57 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 06:54:57 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 06:54:59 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:54:59 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 06:55:02 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:55:02 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 06:55:06 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:55:06 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 06:55:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 06:55:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 06:55:10 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 06:55:10 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 06:55:13 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:55:13 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:55:15 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 06:55:15 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 06:55:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 06:55:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 06:55:19 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:55:19 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:55:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 06:55:23 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 06:55:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:55:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 06:55:29 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 06:55:29 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 06:55:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:55:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 06:55:34 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:55:34 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 06:55:36 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:55:36 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 06:55:43 WIB 2024] Server stopped
+[Fri Jun 28 12:38:49 WIB 2024] Server started on port 1002
+[Fri Jun 28 12:39:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 12:39:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 12:39:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 12:39:47 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 12:39:55 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 12:39:55 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/ HTTP/1.1
+[Fri Jun 28 12:39:57 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 12:39:57 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-12.jpg HTTP/1.1
+[Fri Jun 28 12:40:08 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-15.jpg HTTP/1.1
+[Fri Jun 28 12:40:08 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Picture/photo_2024-03-24_06-09-15.jpg HTTP/1.1
+[Fri Jun 28 12:40:29 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 12:40:29 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 12:40:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 12:40:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 12:40:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 12:40:32 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 13:38:31 WIB 2024] Server started on port 2211
+[Fri Jun 28 13:38:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 13:38:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 13:38:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 13:38:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 13:39:09 WIB 2024] Server stopped
+[Fri Jun 28 13:39:44 WIB 2024] Server started on port 2211
+[Fri Jun 28 13:39:51 WIB 2024] Server stopped
+[Fri Jun 28 14:08:03 WIB 2024] Server started on port 2211
+[Fri Jun 28 14:08:09 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 14:08:09 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 14:08:41 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:08:41 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:08:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 14:08:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 14:08:44 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 14:08:44 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 14:08:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 14:08:46 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 14:08:50 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 14:08:50 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 14:08:53 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 14:08:53 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 14:08:54 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 14:08:54 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 14:08:56 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 14:08:56 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 14:08:59 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 14:08:59 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 14:09:00 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 14:09:00 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 14:09:02 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Konsep Akses SQLite DB Berbasis DAO.pdf HTTP/1.1
+[Fri Jun 28 14:09:02 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Konsep Akses SQLite DB Berbasis DAO.pdf HTTP/1.1
+[Fri Jun 28 14:09:04 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 14:09:04 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 3.pdf HTTP/1.1
+[Fri Jun 28 14:09:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 14:09:07 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 4.pdf HTTP/1.1
+[Fri Jun 28 14:09:15 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 5.pdf HTTP/1.1
+[Fri Jun 28 14:09:15 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 5.pdf HTTP/1.1
+[Fri Jun 28 14:09:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 14:09:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 6.pdf HTTP/1.1
+[Fri Jun 28 14:09:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 8.pdf HTTP/1.1
+[Fri Jun 28 14:09:20 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 8.pdf HTTP/1.1
+[Fri Jun 28 14:09:24 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 14:09:24 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/PBO - Modul Praktik 9 - 10.pdf HTTP/1.1
+[Fri Jun 28 14:09:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:09:42 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:09:48 WIB 2024] Server stopped
+[Fri Jun 28 14:10:08 WIB 2024] Server started on port 1919
+[Fri Jun 28 14:10:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 14:10:17 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET / HTTP/1.1
+[Fri Jun 28 14:10:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 14:10:18 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /favicon.ico HTTP/1.1
+[Fri Jun 28 14:10:24 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:10:24 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:10:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:10:27 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/ HTTP/1.1
+[Fri Jun 28 14:10:28 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 14:10:28 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.css HTTP/1.1
+[Fri Jun 28 14:10:30 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 14:10:30 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/glightbox.min.css HTTP/1.1
+[Fri Jun 28 14:10:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 14:10:31 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.css HTTP/1.1
+[Fri Jun 28 14:10:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 14:10:33 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /CSS/plyr.min.css HTTP/1.1
+[Fri Jun 28 14:10:36 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 14:10:36 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/ HTTP/1.1
+[Fri Jun 28 14:10:38 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 14:10:38 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.js HTTP/1.1
+[Fri Jun 28 14:10:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 14:10:40 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /JS/bootstrap.min.js HTTP/1.1
+[Fri Jun 28 14:10:43 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 14:10:43 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/ HTTP/1.1
+[Fri Jun 28 14:10:45 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 14:10:45 WIB 2024] Request From /0:0:0:0:0:0:0:1 GET /Modul PBO/01.07.0003 Java Collection Framework.pdf HTTP/1.1
+[Fri Jun 28 14:10:55 WIB 2024] Server stopped

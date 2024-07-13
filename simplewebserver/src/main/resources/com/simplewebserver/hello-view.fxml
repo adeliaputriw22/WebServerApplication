@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Deklarasi versi XML dan encoding yang digunakan -->
+
+<?import javafx.geometry.Insets?> <!-- Import class Insets dari JavaFX -->
+<?import javafx.scene.control.Label?> <!-- Import class Label dari JavaFX -->
+<?import javafx.scene.layout.VBox?> <!-- Import class VBox dari JavaFX -->
+<?import javafx.scene.control.Button?> <!-- Import class Button dari JavaFX -->
+
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.simplewebserver.req.RequestHandler"> <!-- Mendefinisikan VBox sebagai root container, dengan properti alignment dan spacing -->
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/> <!-- Menambahkan padding di dalam VBox -->
+  </padding>
+
+  <Label fx:id="welcomeText"/> <!-- Mendefinisikan Label dengan id welcomeText -->
+  <Button text="Hello!" onAction="#onHelloButtonClick"/> <!-- Mendefinisikan Button dengan teks "Hello!" dan action handler onHelloButtonClick -->
+</VBox>
