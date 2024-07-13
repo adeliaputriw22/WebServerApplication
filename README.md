@@ -48,6 +48,6 @@ Selamat datang di proyek aplikasi web server! 🎉 Aplikasi ini menyediakan laya
 3. **Mematikan Server**:
    Klik tombol Stop Server untuk menghentikan server.
 4. **Mengakses Konten**:
-   Akses konten melalui browser dengan URL seperti http://localhost:port/index.html.Akses direktori dengan URL seperti http://localhost:port/pages untuk melihat daftar file.
+   Akses konten melalui browser dengan URL seperti http://localhost:port/index.html. Akses direktori dengan URL seperti http://localhost:port/pages untuk melihat daftar file.
 5. **Melihat Log**:
    Log akses akan ditampilkan di area log pada antarmuka grafis dan disimpan di direktori log dengan nama file sesuai tanggal.
